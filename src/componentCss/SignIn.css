@@ -1,0 +1,42 @@
+.sign-in-box {
+    width: 430px;
+    height: 500px;
+    border: 1px solid rgba(1, 98, 122, 0.466);
+    margin: 50px auto;
+    background: rgba(1, 98, 122, 0.466);
+}
+
+.btn-doc {
+    width: 80px;
+    height: 35px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+
+.inp {
+    font-size: 20px;
+}
+
+.divInp {
+    margin-left: 15%;
+}
+
+label {
+    font-size: 20px;
+    color: white;
+}
+
+.checkBox {
+    margin-top: 20px;
+    margin-left: 15%;
+}
+
+.register-link {
+    margin: 15px;
+    margin-left: 15%;
+}
+
+.title {
+    margin-left: 35%;
+}

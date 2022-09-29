@@ -1,0 +1,12 @@
+.pngshka {
+    width: 500px;
+    height: 270px;
+    background-image: url(../image/technik.png) ;
+}
+
+.div-png {
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin: 50px auto;
+}
